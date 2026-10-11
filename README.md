@@ -65,20 +65,10 @@ Analista de datos enfocado en **supply chain y logística**. Convierto datos ope
   </p>
 </details>
 
-## 📈 Actividad en GitHub — OSSInsight
-
-<p align="center">
-  <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=240396349&image_size=auto" alt="Currently Working On — OSSInsight" width="420"/>
-  &nbsp;
-  <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1414187690&image_size=auto" alt="Actividad ml-inventario-superstore — OSSInsight" width="420"/>
-</p>
-
 ## 🐍 Contributions Snake
 
 <p align="center">
-  <img src="https://github.com/jvillagra66-oss/jvillagra66-oss/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake eating contributions"/>
-  <br/><br/>
-  <img src="https://github.com/jvillagra66-oss/jvillagra66-oss/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions dark"/>
+  <img src="https://github.com/jvillagra66-oss/jvillagra66-oss/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions"/>
 </p>
 
 ## Conectate conmigo
