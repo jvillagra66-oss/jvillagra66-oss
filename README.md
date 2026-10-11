@@ -65,6 +65,14 @@ Analista de datos enfocado en **supply chain y logística**. Convierto datos ope
   </p>
 </details>
 
+## 📈 Actividad en GitHub — OSSInsight
+
+<p align="center">
+  <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=240396349&image_size=auto" alt="Currently Working On — OSSInsight" width="420"/>
+  &nbsp;
+  <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1414187690&image_size=auto" alt="Actividad ml-inventario-superstore — OSSInsight" width="420"/>
+</p>
+
 ## 🐍 Contributions Snake
 
 <p align="center">
