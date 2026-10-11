@@ -1,8 +1,18 @@
-<h1 align="center">Hola, soy Jorge Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F2C811&size=25&center=true&vCenter=true&width=600&height=100&lines=Supply+Chain+Data+Analyst;Power+BI+%7C+Python+%7C+SQL+%7C+ML;SAP+%7C+GIS+%7C+Log%C3%ADstica+con+datos;Open+to+remote+opportunities"></a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="72%" valign="middle">
+      <h1>Hola, soy Jorge Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+      <p>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F2C811&size=25&center=true&vCenter=true&width=600&height=100&lines=Supply+Chain+Data+Analyst;Power+BI+%7C+Python+%7C+SQL+%7C+ML;SAP+%7C+GIS+%7C+Log%C3%ADstica+con+datos;Open+to+remote+opportunities"></a>
+      </p>
+    </td>
+    <td width="28%" valign="middle" align="center">
+      <img src="output/bonsai-growth.gif" width="220" alt="my git-bonsai" />
+      <br/>
+      <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/%F0%9F%8C%B3_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai"/></a>
+    </td>
+  </tr>
+</table>
 
 ## Introducción
 
@@ -38,14 +48,6 @@ Analista de datos enfocado en **supply chain y logística**. Convierto datos ope
 
 <p align="center">
   <img src="https://github.com/jvillagra66-oss/jvillagra66-oss/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions"/>
-</p>
-
-## 🌳 Mi Bonsai
-
-<p align="center">
-  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
-  <br/><br/>
-  <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/%F0%9F%8C%B3_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai"/></a>
 </p>
 
 ## Conectate conmigo
