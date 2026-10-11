@@ -40,6 +40,14 @@ Analista de datos enfocado en **supply chain y logística**. Convierto datos ope
   <img src="https://github.com/jvillagra66-oss/jvillagra66-oss/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions"/>
 </p>
 
+## 🌳 Mi Bonsai
+
+<p align="center">
+  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+  <br/><br/>
+  <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/%F0%9F%8C%B3_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai"/></a>
+</p>
+
 ## Conectate conmigo
 
 <p align="center">
