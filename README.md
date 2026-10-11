@@ -20,29 +20,6 @@ Analista de datos enfocado en **supply chain y logística**. Convierto datos ope
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic" alt="Git"/>
 </p>
 
-## Proyectos destacados
-
-<p align="center">
-  <a href="https://github.com/jvillagra66-oss/dashboard-distribucion-nacional">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvillagra66-oss&repo=dashboard-distribucion-nacional&theme=tokyonight" alt="Dashboard Distribución Nacional"/>
-  </a>
-  <a href="https://github.com/jvillagra66-oss/ecommerce-sales-dashboard-powerbi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvillagra66-oss&repo=ecommerce-sales-dashboard-powerbi&theme=tokyonight" alt="Ecommerce Sales Dashboard"/>
-  </a>
-  <a href="https://github.com/jvillagra66-oss/sistema-prediccion-fallos-ultima-milla">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvillagra66-oss&repo=sistema-prediccion-fallos-ultima-milla&theme=tokyonight" alt="Predicción Fallos Última Milla"/>
-  </a>
-  <a href="https://github.com/jvillagra66-oss/ml-inventario-superstore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvillagra66-oss&repo=ml-inventario-superstore&theme=tokyonight" alt="ML Inventario Superstore"/>
-  </a>
-  <a href="https://github.com/jvillagra66-oss/analisis-performance-comercial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvillagra66-oss&repo=analisis-performance-comercial&theme=tokyonight" alt="Performance Comercial"/>
-  </a>
-  <a href="https://github.com/jvillagra66-oss/SQL-transporte-pasajeros">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvillagra66-oss&repo=SQL-transporte-pasajeros&theme=tokyonight" alt="SQL Transporte Pasajeros"/>
-  </a>
-</p>
-
 ## Github Stats
 
 <details>
@@ -55,14 +32,6 @@ Analista de datos enfocado en **supply chain y logística**. Convierto datos ope
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvillagra66-oss&langs_count=8&show_icons=true&locale=es&theme=tokyonight" alt="Top Languages" height="230px"/>
   </p>
   <p align="center"><i>Top languages es solo métrica de mi código público, no refleja nivel de experiencia.</i></p>
-</details>
-
-<details>
-  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jvillagra66-oss&theme=tokyonight" alt="Activity Graph"/>
-  </p>
 </details>
 
 ## 🐍 Contributions Snake
