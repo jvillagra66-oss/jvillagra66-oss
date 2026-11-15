@@ -14,9 +14,41 @@
   </tr>
 </table>
 
-## Introducción
+## Sobre mí
 
-Analista de datos enfocado en **supply chain y logística**. Convierto datos operativos (SAP, distribución, ventas) en dashboards y modelos de ML que apoyan decisiones: SLA, inventario, demanda y fallos logísticos.
+Analista de datos enfocado en **supply chain, logística y performance comercial**. Convierto datos operativos (SAP, distribución, ventas) en consultas SQL, dashboards y modelos que apoyan decisiones de negocio.
+
+## Proyectos destacados
+
+### 🚚 SQL de transporte y última milla
+
+Consultas SQL para analizar transporte de pasajeros y operaciones de última milla: volúmenes, tiempos, rutas y calidad de servicio.
+
+`SQL` · `PostgreSQL` · `Análisis de datos`
+
+**[Ver proyecto →](https://github.com/jvillagra66-oss/SQL-transporte-pasajeros)**
+
+---
+
+### 📊 Power BI comercial
+
+Dashboard de ventas e-commerce Argentina 2023 con DAX y Power Query: facturación, margen, clientes y evolución mensual.
+
+`Power BI` · `DAX` · `Power Query` · `Business Intelligence`
+
+**[Ver proyecto →](https://github.com/jvillagra66-oss/ecommerce-sales-dashboard-powerbi)**
+
+---
+
+### 📈 Análisis de performance comercial
+
+Análisis exploratorio de ventas, clientes y marketing con Python y Pandas: patrones de compra, segmentación y oportunidades de mejora.
+
+`Python` · `Pandas` · `EDA` · `Data Analysis`
+
+**[Ver proyecto →](https://github.com/jvillagra66-oss/analisis-performance-comercial)**
+
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=plastic" alt="Power BI"/>
@@ -30,33 +62,8 @@ Analista de datos enfocado en **supply chain y logística**. Convierto datos ope
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic" alt="Git"/>
 </p>
 
-## Github Stats
-
-<details>
-  <summary><h3>📊 GitHub Profile Stats</h3></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="jvillagra66-oss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jvillagra66-oss&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvillagra66-oss&langs_count=8&show_icons=true&locale=es&theme=tokyonight" alt="Top Languages" height="230px"/>
-  </p>
-  <p align="center"><i>Top languages es solo métrica de mi código público, no refleja nivel de experiencia.</i></p>
-</details>
-
-## 🐍 Contributions Snake
-
-<p align="center">
-  <img src="https://github.com/jvillagra66-oss/jvillagra66-oss/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions"/>
-</p>
-
-## Conectate conmigo
+## Contacto
 
 <p align="center">
   <a href="https://github.com/jvillagra66-oss"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jvillagra66-oss&label=Profile+views&color=0047AB&style=plastic" alt="Profile views"/>
 </p>
